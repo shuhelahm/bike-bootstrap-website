@@ -31,10 +31,6 @@
     color: #E76F51;
 }
 
-.feature-single {
-    margin-right: 138px;
-}
-
 .feature-img {
     filter: grayscale(100%);
 }
@@ -57,7 +53,7 @@
     border-radius: 5px;
 }
 
-.card-img-top {
+.review-img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -127,3 +123,24 @@
 }
 
 /* faq end */
+
+/* about us start */
+
+.about-us-heading {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 50px;
+    margin-bottom: 80px;
+}
+
+.about-us-heading-colored {
+    color: #E76F51;
+}
+
+.ceo-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+}
+
+/* about us end */
