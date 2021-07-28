@@ -1,0 +1,40 @@
+/* banner start */
+
+.banner-bg {
+    background-color: #264653;
+}
+
+.cbr-description {
+    color: #E0E0E0;
+}
+
+.banner-btn {
+    color: white;
+    background-color: #E76F51;
+    padding: 10px;
+}
+
+.banner-btn:hover {
+    color: white;
+}
+
+/* banner end */
+
+
+/* feature start */
+
+.feature-title {
+    margin-bottom: 120px;
+}
+
+.feature-title p {
+    color: #E76F51;
+}
+
+.feature-single {
+    margin-right: 138px;
+}
+
+.feature-img {
+    filter: grayscale(100%);
+}
